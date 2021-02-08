@@ -1,0 +1,31 @@
+body {
+  font-size: larger;
+}
+
+div {
+  background-color: lightcoral;
+  margin: 20px;
+  padding: 10px;
+  border: 3px solid gray;
+  height: 60px;
+  border-radius: 15px;
+  font-size: larger;
+}
+
+select {
+  font-size: large;
+}
+
+.blue {
+  background-color: lightblue;
+}
+
+.magenta {
+  background-color: magenta;
+}
+
+.myClass {
+  margin: 20px;
+  padding: 10px;
+  border: 3px solid gray;
+}
